@@ -1,1 +1,16 @@
+I am doing the freelancing in upwork
+
+1. Payment verified
+2. Number of proposals (less than 5) ( 5 to 10) (10 to 15)
+3. Fixed-Price (50$ to 200$)
+4. Hourly (20$ to 50$)
+5. Experience level (Beginner) (Intermediate) (Expert)
+6. Skills: Python , Flask, Streamlit , Machine Learning , Deep Learning, AI - Coding
+7. Project Type: One-time project
+
+Proposals:
+1. The message conveys a mix of frustration, concern, and a desire for help
+2. $10K Min- Total spent
+3. $20 /hr avg hourly rate paid
+3. Number of jobs posted -90% hire rate
 
